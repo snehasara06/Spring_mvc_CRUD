@@ -1,0 +1,9 @@
+com\kgisl\springcrudsample\Config\MvcConfig.class
+com\kgisl\springcrudsample\Controller\BookController.class
+com\kgisl\springcrudsample\Service\BookServiceImp.class
+com\kgisl\springcrudsample\Config\HibernateConfig.class
+com\kgisl\springcrudsample\Dao\BookDao.class
+com\kgisl\springcrudsample\Service\BookService.class
+com\kgisl\springcrudsample\Config\AppInitializer.class
+com\kgisl\springcrudsample\Dao\BookDaoImp.class
+com\kgisl\springcrudsample\Model\Book.class
